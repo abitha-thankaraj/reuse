@@ -1,3 +1,4 @@
-display_name: Experiment Slack Notify
-short_description: Send concise experiment Slack updates.
-default_prompt: Send a concise Slack update for the current experiment status.
+interface:
+  display_name: "Experiment Slack Notify"
+  short_description: "Send concise experiment Slack updates."
+  default_prompt: "Use $experiment-slack-notify to send a concise, readable Slack update for the current experiment status."
