@@ -1,0 +1,7 @@
+interface:
+  display_name: "Readable Python Refactor"
+  short_description: "Refactor Python for clarity and learning"
+  default_prompt: "Use $write-readable-python to refactor this working Python code with clear names, focused modules, loud failures, and reproducible OmegaConf YAML configurations."
+
+policy:
+  allow_implicit_invocation: false

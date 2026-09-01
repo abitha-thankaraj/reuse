@@ -1,0 +1,4 @@
+interface:
+  display_name: "Create Private Fork"
+  short_description: "Mirror a repository into a private fork"
+  default_prompt: "Use $create-private-fork to create a private fork from two repository URLs."

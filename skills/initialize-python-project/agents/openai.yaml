@@ -1,0 +1,4 @@
+interface:
+  display_name: "Initialize Python Project"
+  short_description: "Bootstrap opinionated Cookiecutter projects"
+  default_prompt: "Use $initialize-python-project to create a clean Python project from my standard template."

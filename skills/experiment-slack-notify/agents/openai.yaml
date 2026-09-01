@@ -1,0 +1,3 @@
+display_name: Experiment Slack Notify
+short_description: Send concise experiment Slack updates.
+default_prompt: Send a concise Slack update for the current experiment status.

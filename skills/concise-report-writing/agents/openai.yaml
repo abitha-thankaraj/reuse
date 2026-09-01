@@ -1,0 +1,4 @@
+interface:
+  display_name: "Concise Report Writing"
+  short_description: "Write and edit reports in plain, direct English"
+  default_prompt: "Use $concise-report-writing to draft or revise this report in plain, direct English."

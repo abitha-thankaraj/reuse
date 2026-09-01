@@ -1,0 +1,4 @@
+interface:
+  display_name: "Babel Experiment Launcher"
+  short_description: "Build readable Babel jobs and experiment sweeps"
+  default_prompt: "Use $launch-babel-experiments to create readable Babel Slurm scripts for a training sweep with dependent evaluation jobs."

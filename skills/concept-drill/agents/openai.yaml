@@ -1,0 +1,4 @@
+interface:
+  display_name: "Concept Drill"
+  short_description: "Master technical concepts through active practice"
+  default_prompt: "Use $concept-drill to help me master this technical concept through implementation, tests, debugging, and explain-back checks."

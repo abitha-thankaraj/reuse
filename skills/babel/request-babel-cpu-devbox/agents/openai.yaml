@@ -1,0 +1,4 @@
+interface:
+  display_name: "Babel CPU Devbox"
+  short_description: "Request and verify a Babel CPU development box"
+  default_prompt: "Use $request-babel-cpu-devbox to request a two-day CPU development box on Babel and verify SSH access."
