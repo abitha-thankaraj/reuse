@@ -1,0 +1,4 @@
+interface:
+  display_name: "Babel GPU Debug Job"
+  short_description: "Request and verify a one-GPU Babel debug job"
+  default_prompt: "Use $request-babel-gpu-debug to request a one-hour interactive GPU debug allocation on Babel and verify GPU access."
