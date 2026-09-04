@@ -1,4 +1,0 @@
-interface:
-  display_name: "Draft Advisor Slack Updates"
-  short_description: "Draft concise research updates for an advisor"
-  default_prompt: "Use $draft-advisor-slack-updates to draft a brief Slack update for my research advisor."
