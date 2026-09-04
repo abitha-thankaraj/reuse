@@ -44,8 +44,9 @@ Omit routine runs, logs, implementation details, and unexplained run names.
 - Avoid tables. State the one or two comparisons that support the point.
 - Link to supporting material instead of reproducing it.
 - Use headings or bullets only when they improve scanning.
-- Match the user's ordinary Slack voice when examples are available.
+- Match the user's ordinary Slack voice: short, simple sentences with one thought each.
 - Prefer natural contractions and direct phrasing over polished or corporate prose.
+- Do not pack several ideas into one dense sentence to meet the word limit.
 - Preserve harmless roughness in the user's source text, but do not manufacture typos or errors.
 
 If an available plot explains the result better than text, include it with the draft. Use plots that are legible on a phone, have clear labels, and support one main claim. Add one short sentence stating what the advisor should notice. Omit decorative or redundant plots.
