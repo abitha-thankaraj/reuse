@@ -1,6 +1,6 @@
 ---
 name: socratic-code-exercises
-description: Teach concepts through interactive, Jupyter-ready coding exercises when the user asks for Socratic or question-led teaching and hands-on code is useful, or explicitly requests this skill. Do not use by default for general teaching, implementation, or explanations.
+description: Teach concepts through interactive, Jupyter-ready coding exercises when the user asks to be taught and hands-on code is useful, asks for Socratic or question-led coding practice, or explicitly requests this skill. Not for ordinary implementation requests or one-off explanations.
 ---
 
 # Socratic Code Exercises
